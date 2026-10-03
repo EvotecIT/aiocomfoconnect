@@ -1,4 +1,4 @@
-""" Property definitions """
+"""Property definitions"""
 
 from __future__ import annotations
 

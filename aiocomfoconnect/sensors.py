@@ -1,4 +1,4 @@
-""" Sensor definitions. """
+"""Sensor definitions."""
 
 from __future__ import annotations
 

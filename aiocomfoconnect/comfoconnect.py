@@ -1,4 +1,4 @@
-""" ComfoConnect Bridge API abstraction """
+"""ComfoConnect Bridge API abstraction"""
 
 from __future__ import annotations
 

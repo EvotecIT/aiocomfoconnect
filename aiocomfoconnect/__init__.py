@@ -1,4 +1,4 @@
-""" aiocomfoconnect library """
+"""aiocomfoconnect library"""
 
 from .bridge import Bridge  # noqa
 from .comfoconnect import ComfoConnect  # noqa

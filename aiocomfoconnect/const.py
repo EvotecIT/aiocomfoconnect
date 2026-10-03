@@ -1,4 +1,4 @@
-""" Constants """
+"""Constants"""
 
 
 # ComfoNet product ids, as reported in the productId field of a CnNodeNotification.
