@@ -1,4 +1,4 @@
-""" Error definitions """
+"""Error definitions"""
 
 from __future__ import annotations
 
