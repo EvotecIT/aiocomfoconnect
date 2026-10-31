@@ -19,7 +19,7 @@ grpcio-tools = "^1.73.0"
 dpkt = "^1.9.8"
 black = "^26.3.1"
 isort = "^5.10.1"
-pylint = "^3.2"
+pylint = ">=3.2,<5.0"
 pytest = "^9.0.3"
 pytest-asyncio = "^1.4.0"
 
